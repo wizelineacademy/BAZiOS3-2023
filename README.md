@@ -8,12 +8,12 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 [Calendario](https://github.com/wizelineacademy/BAZiOS2-2022/blob/main/DSA_BAZ%20%7C%20Calendario%20iOS%20Grupo%202.png)
 
-[Liga Acceso Telegram grupal]
+[Liga Acceso Telegram grupal](https://t.me/+h1inbqzgrttjMTMx)
 
 **Sesiones en Vivo** 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Martes y Jueves: 2pm en oficinas de Wizeline - [Liga zoom] en caso de no poderse presentar
-- Viernes: 9am en línea por [Zoom]
+- Martes y Jueves: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/85691893151?pwd=TlorN2FEVmFrWUpNS3lkK283a1R1dz09) en caso de no poderse presentar
+- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/85691893151?pwd=TlorN2FEVmFrWUpNS3lkK283a1R1dz09)
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
