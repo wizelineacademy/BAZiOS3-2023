@@ -8,7 +8,6 @@ Importante unirse ya que toda la comunicación del curso se lleva por este medio
 
 ![Calendario](https://github.com/wizelineacademy/BAZiOS2-2022/blob/main/iOSCalendarioGrupo2.png)
 
-[Liga Acceso Telegram grupal](https://t.me/+h1inbqzgrttjMTMx)
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
