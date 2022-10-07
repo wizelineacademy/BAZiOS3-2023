@@ -16,7 +16,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/85691893151?pwd=TlorN2FEVmFrWUpNS3lkK283a1R1dz09)
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
-- - Debes asisitir a mínimo 5 sesiones presenciales para tener derecho a presentar tu Proyecto Final
+- Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
 - En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
 
 **Mentorías Grupales**
@@ -86,7 +86,9 @@ En [esta liga](Grabaciones_y_Presentaciones) encontrarás todas las grabaciones 
 
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
+Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
+- Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
+- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
 [Aquí](https://github.com/wizelineacademy/baz-ios-project-c2-2022) encontrarás las instrucciones para completar tu Projecto final.
 
@@ -100,6 +102,7 @@ Para la revisión de tu Capstone Project se te asignará un mentor, el cual te d
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
+- Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/eXZtaRMKg5waKMBZ9) al final de tu mentoría.
 
 - [Jorge Benavides](https://calendly.com/jorge-benavides/baz-mentoria)
 - [Uriel Pachecho](https://calendly.com/wizeline-uriel-pacheco/baz-mentoria-1-1)
