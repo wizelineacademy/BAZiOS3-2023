@@ -6,7 +6,7 @@ Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entre
 [Liga Acceso Telegram grupal](https://t.me/+h1inbqzgrttjMTMx)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario](https://github.com/wizelineacademy/BAZiOS2-2022/blob/main/iOSCalendarioGrupo2.png)
+![Calendario](https://github.com/wizelineacademy/BAZiOS2-2022/blob/main/iOSGrupo2Calendario.png)
 
 
 # II. Información general del entrenamiento
