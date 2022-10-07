@@ -98,7 +98,7 @@ Para la revisión de tu Capstone Project se te asignará un mentor, el cual te d
 | \_          | \_                                  | \_                          |
 
 # V. Agenda tu mentoria 📆
-Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
+Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/eXZtaRMKg5waKMBZ9) al final de tu mentoría.
