@@ -6,7 +6,7 @@ Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entre
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
 
-[Calendario]
+[Calendario](https://github.com/wizelineacademy/BAZiOS2-2022/blob/main/DSA_BAZ | Calendario iOS Grupo 2.png)
 
 [Liga Acceso Telegram grupal]
 
