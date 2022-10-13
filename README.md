@@ -102,12 +102,12 @@ Para la revisión de tu Capstone Project se te asignará un mentor quien te dar�
 | 1017143     | Edgar Millán                        | [Ana Anguiano](https://github.com/anaacruz)              |
 | 1031329     | Fredy Domínguez                     | [Michel Torres](https://github.com/mtorres0)             |
 | 1028092     | Jorge Gallegos                      | [Michel Torres](https://github.com/mtorres0)             |
-| 1048493     | Mayra Carreño                       | [Guillermo Saavedra](https://github.com/themem12)        |
-| 1019407     | Víctor Manzanero                    | [Guillermo Saavedra](https://github.com/themem12)        |
 | 961082      | Mitzi Vázquez                       | [Josue Quiñonez](https://github.com/JosueQuinonesRivera) |
 | 1048516     | Sarahí Pérez                        | [Josue Quiñonez](https://github.com/JosueQuinonesRivera) |
 | 1030364     | Luís Ramírez                        | [Uriel Pachecho](https://github.com/VictorUrielP)        |
+| 1019407     | Víctor Manzanero                    | [Uriel Pachecho](https://github.com/VictorUrielP)        |
 | 1076050     | Víctor Dimas                        | [Alejandro Martínez](https://github.com/alejandrombWize) |
+| 1048493     | Mayra Carreño                       | [Alejandro Martínez](https://github.com/alejandrombWize) |
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
