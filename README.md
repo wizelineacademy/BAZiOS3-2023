@@ -98,7 +98,12 @@ Para la revisión de tu Capstone Project se te asignará un mentor, el cual te d
 
 | ID Empleado | Nombre                              | Mentor |
 | ----------: | :---------------------------------- | :-------------------------- |
-| \_          | \_                                  | \_                          |
+| \_          | \_                                  | [Uriel Pachecho](https://github.com/VictorUrielP)        |
+| \_          | \_                                  | [Ana Anguiano](https://github.com/anaacruz)              |
+| \_          | \_                                  | [Michel Torres](https://github.com/mtorres0)             |
+| \_          | \_                                  | [Alejandro Martínez](https://github.com/alejandrombWize) |
+| \_          | \_                                  | [Josue Quiñonez](https://github.com/JosueQuinonesRivera) |
+| \_          | \_                                  | [Guillermo Saavedra](https://github.com/themem12) |
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
