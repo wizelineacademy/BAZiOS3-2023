@@ -11,7 +11,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 2
 - [Martes 18 Oct - Git + Github](https://drive.google.com/file/d/1viLE3L2GlxJwLzU-jziLOH6Gur0aTPg9/view?usp=sharing)
 - [Git II Xcode](https://drive.google.com/file/d/1TsGa7s5uWGOBZ9zj1RWEztXzT4CFdpM5/view?usp=sharing)
-- 📺 [Grabacion Martes 18 Oct]()
+- 📺 [Grabacion Martes 18 Oct](https://drive.google.com/file/d/1TEGp5MdiVG6OBrFbncpJMKAopaT-DEdo/view?usp=sharing)
 - [Jueves 20 Oct - Value types/Reference types](https://drive.google.com/file/d/1H_vu5TlG_L2TK6_ccA7_7wkg4r-p2Zsj/view?usp=sharing)
 - 📺 [Grabacion Jueves 20 Oct]()
 - [Viernes 21 Oct - Herencia](https://drive.google.com/file/d/1c-K1l-5CX7fI7AjyKfU_x8R_fKT8CgIK/view?usp=sharing)
