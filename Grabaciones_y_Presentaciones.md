@@ -15,4 +15,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 20 Oct - Value types/Reference types](https://drive.google.com/file/d/1H_vu5TlG_L2TK6_ccA7_7wkg4r-p2Zsj/view?usp=sharing)
 - 📺 [Grabacion Jueves 20 Oct](https://drive.google.com/file/d/1rm7MEaQjnr7IaTqr1ybmMz3HRH_yZWl0/view?usp=sharing)
 - [Viernes 21 Oct - Herencia](https://drive.google.com/file/d/1c-K1l-5CX7fI7AjyKfU_x8R_fKT8CgIK/view?usp=sharing)
-- 📺 [Grabacion Viernes 21 Oct]()
+- 📺 [Grabacion Viernes 21 Oct](https://drive.google.com/file/d/1gJMvjlYgQyxaUHv0wZmCG3qXjFHoslbY/view?usp=sharing)
