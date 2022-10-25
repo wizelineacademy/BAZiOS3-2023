@@ -19,7 +19,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 3
 - [Martes 25 Oct - Protocolos y delegados](https://drive.google.com/file/d/1_paAprCLoO0aMDGjD-e_Kbz58RHSptbu/view?usp=sharing)
-- 📺 [Grabacion Martes 25 Oct]()
+- 📺 [Grabacion Martes 25 Oct](https://drive.google.com/file/d/1Dp5tRTLJL_64SkhehFn9MkXETgVYi_g-/view?usp=sharing)
 - [Jueves 27 Oct - Control de accesos](https://drive.google.com/file/d/1Hh86G5JkV0qcuRdEIKaGfqpTT6K6Jaf3/view?usp=sharing)
 - 📺 [Grabacion Jueves 27 Oct]()
 - [Viernes 28 Oct - Patrones de dieño]
