@@ -24,3 +24,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Jueves 27 Oct](https://drive.google.com/file/d/1aKkHHq3tJ1cogmoLGHZa6XihJCqGyO1X/view?usp=sharing)
 - [Viernes 28 Oct - Patrones de dieño]
 - 📺 [Grabacion Viernes 28 Oct]()
+
+# Semana 4
+- [Martes 1 Nov - ]()
+- 📺 [Grabacion Martes 1 Nov]()
+- [Jueves 3 Nov - ]()
+- 📺 [Grabacion Jueves 3 Nov]()
+- [Viernes 4 Nov - ]
+- 📺 [Grabacion Viernes 4 Nov]()
