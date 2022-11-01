@@ -22,7 +22,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Martes 25 Oct](https://drive.google.com/file/d/1Dp5tRTLJL_64SkhehFn9MkXETgVYi_g-/view?usp=sharing)
 - [Jueves 27 Oct - Control de accesos](https://drive.google.com/file/d/1Hh86G5JkV0qcuRdEIKaGfqpTT6K6Jaf3/view?usp=sharing)
 - 📺 [Grabacion Jueves 27 Oct](https://drive.google.com/file/d/1aKkHHq3tJ1cogmoLGHZa6XihJCqGyO1X/view?usp=sharing)
-- [Viernes 28 Oct - Patrones de dieño]
+- [Viernes 28 Oct - Patrones de dieño](https://drive.google.com/file/d/1AA3Zz3Qjv87UrTGn0B7PpyXR2hDEk6al/view?usp=sharing)
 - 📺 [Grabacion Viernes 28 Oct](https://drive.google.com/file/d/1h0RBtC7usiDpcjvdljqa_KNe3d3B2TuR/view?usp=sharing)
 
 # Semana 4
