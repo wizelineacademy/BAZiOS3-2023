@@ -29,6 +29,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 1 Nov - Ciclo de vida de una app](https://drive.google.com/file/d/1MfNI4DiKYXaKzCItTTPASVP6Gv9GC3B6/view?usp=sharing)
 - 📺 [Grabacion Martes 1 Nov](https://drive.google.com/file/d/1owfh-BHROYMFg_LPIYi0mrP9k5ydzOc-/view?usp=sharing)
 - [Jueves 3 Nov - NIBs & Storyboards](https://drive.google.com/file/d/17HCqzN-chyfTjLir4qPan874KIH4sUdN/view?usp=sharing)
-- 📺 [Grabacion Jueves 3 Nov]()
+- 📺 [Grabacion Jueves 3 Nov](https://drive.google.com/file/d/1QRrgVCCkH49KHfqBXYw-D7uGDmLDorko/view?usp=sharing)
 - [Viernes 4 Nov - UIKit y componentes básicos](https://drive.google.com/file/d/1yEFbGXpUR7Zb8LlIkdN0vfgFvGvMAAy8/view?usp=sharing)
 - 📺 [Grabacion Viernes 4 Nov]()
