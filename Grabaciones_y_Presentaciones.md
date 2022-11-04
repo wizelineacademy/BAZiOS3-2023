@@ -31,4 +31,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 3 Nov - NIBs & Storyboards](https://drive.google.com/file/d/17HCqzN-chyfTjLir4qPan874KIH4sUdN/view?usp=sharing)
 - 📺 [Grabacion Jueves 3 Nov](https://drive.google.com/file/d/1QRrgVCCkH49KHfqBXYw-D7uGDmLDorko/view?usp=sharing)
 - [Viernes 4 Nov - UIKit y componentes básicos](https://drive.google.com/file/d/1yEFbGXpUR7Zb8LlIkdN0vfgFvGvMAAy8/view?usp=sharing)
-- 📺 [Grabacion Viernes 4 Nov]()
+- 📺 [Grabacion Viernes 4 Nov](https://drive.google.com/file/d/1MAG9hHxwTI_tZ3A7fhyUm5KR3JDCFf35/view?usp=sharing)
