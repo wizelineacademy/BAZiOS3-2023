@@ -35,17 +35,17 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 6 Ene]()
 
 # Semana 5
-- [Lunes 9 Ene - ]()
+- [Lunes 9 Ene - Table Views & Collections Views]()
 - 📺 [Grabacion Lunes 9 Ene]()
-- [Martes 10 Ene - ]()
+- [Martes 10 Ene - Extensiones]()
 - 📺 [Grabacion Martes 10 Ene]()
-- [Viernes 13 Ene - ]()
+- [Viernes 13 Ene - Notification Center]()
 - 📺 [Grabacion Viernes 13 Ene]()
 
 # Semana 6
-- [Lunes 16 Ene - Table Views & Collections Views]()
+- [Lunes 16 Ene - Closures]()
 - 📺 [Grabacion Lunes 16 Ene]()
-- [Martes 17 Ene - Extensiones]()
+- [Martes 17 Ene - ARC]()
 - 📺 [Grabacion Martes 17 Ene]()
-- [Viernes 20 Dic - Notification Center]()
+- [Viernes 20 Dic - Servicios REST]()
 - 📺 [Grabacion Viernes 20 Dic]()
