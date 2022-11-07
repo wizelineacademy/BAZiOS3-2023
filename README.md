@@ -60,14 +60,14 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
    3. [UIKit y componentes básicos](curso/semana_4/UIKit_Components)
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
-  1. [Table Views & Collection Views](curso/semana_5/TableView_y_CollectionView)
-  2. [Extensiones](curso/semana_5/Extensiones)
-  3. [Notification Center](curso/semana_5/Notification_Center)
+   1. [Table Views & Collection Views](curso/semana_5/TableView_y_CollectionView)
+   2. [Extensiones](curso/semana_5/Extensiones)
+   3. [Notification Center](curso/semana_5/Notification_Center)
 
 ### Semana 6
-  1. [Closures](curso/semana_6/Closures)
-  2. [ARC](curso/semana_6/ARC)
-  3. [Servicios REST](curso/semana_6/Servicios_REST)
+   1. [Closures](curso/semana_6/Closures)
+   2. [ARC](curso/semana_6/ARC)
+   3. [Servicios REST](curso/semana_6/Servicios_REST)
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
