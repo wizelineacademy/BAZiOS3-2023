@@ -43,9 +43,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 13 Ene]()
 
 # Semana 6
-- [Lunes 16 Ene - ]()
+- [Lunes 16 Ene - Table Views & Collections Views]()
 - 📺 [Grabacion Lunes 16 Ene]()
-- [Martes 17 Ene - ]()
+- [Martes 17 Ene - Extensiones]()
 - 📺 [Grabacion Martes 17 Ene]()
-- [Viernes 20 Dic - ]()
+- [Viernes 20 Dic - Notification Center]()
 - 📺 [Grabacion Viernes 20 Dic]()
