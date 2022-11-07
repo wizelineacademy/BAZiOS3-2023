@@ -19,7 +19,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
-- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram, con copia a Lluvia Martínez(lluvia.martinez@gesech.com) y a tu líder de gremio. 
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram, con copia a Lluvia Martínez lluvia.martinez@gesech.com y a tu líder de gremio. 
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
@@ -82,7 +82,7 @@ Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforz
 
 [Aquí]() encontrarás las instrucciones para completar tu Projecto final.
 
-Para la revisión de tu Capstone Project se te asignará un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
+Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
 | ID Empleado | Nombre                              | Mentor |
 | ----------: | :---------------------------------- | :-------------------------- |
