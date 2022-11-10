@@ -3,10 +3,10 @@
 # I. Bienvenida
 Bienvenido a tu capacitación de Mobile IOS que consta de 6 semanas de entrenamiento.
 
-[Liga Acceso Telegram grupal](https://t.me/+h1inbqzgrttjMTMx)
+[Liga Acceso Telegram grupal](TODO:)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario]()
+![Calendario](TODO:)
 
 
 # II. Información general del entrenamiento
@@ -14,8 +14,8 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Sesiones en Vivo** 
 - Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Martes: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/82828799625) en caso de no poderse presentar
-- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/82828799625)
+- Martes y Jueves: 2pm en oficinas de Wizeline - [Liga zoom](TODO:) en caso de no poderse presentar
+- Viernes: 9am en línea por [Zoom](TODO:)
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
@@ -80,7 +80,7 @@ Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforz
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-[Aquí]() encontrarás las instrucciones para completar tu Projecto final.
+[Aquí](https://github.com/wizelineacademy/baz-ios-project-c3-2022) encontrarás las instrucciones para completar tu Projecto final.
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
@@ -101,7 +101,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
-Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/UKWqJuysz8v93x2s8) al final de tu mentoría.
+Recuerda llenar el [Formato de Retroalimentación](TODO:) al final de tu mentoría.
 
 - [Jorge Benavides](https://calendly.com/jorge-benavides/baz-mentoria)
 - [Uriel Pachecho](https://calendly.com/wizeline-uriel-pacheco/baz-mentoria-1-1)
