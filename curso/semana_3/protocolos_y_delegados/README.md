@@ -18,10 +18,6 @@ Protocolos y delegados
 ### Delegados
 * Patrón de diseño y sus usos
 
-
-## 📺 Enlace a la presentación 
-* https://docs.google.com/presentation/d/14Fesx5pOPjzhvWlGeqYge98aad9shx7Yms9RTWMq98o
-
 ## 💻 Actividades
 * [Definición](https://bit.ly/baz-c1-3-1)
     * Crea al menos dos protocolos
@@ -37,8 +33,10 @@ Protocolos y delegados
     * Declara un protocolo para delegar la acción de inicializar una coordenada
     * Utiliza los protocolo como el tipo de retorno en tu implementación
 
-
 ## 📚 Referencias
 * https://docs.swift.org/swift-book/LanguageGuide/Protocols.html
 * https://www.swiftbeta.com/protocolos-en-swift
 * https://applecoding.com/cursos/swift-leccion-8-protocolos
+
+## 📺 Enlace a la presentación 
+- [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

@@ -17,14 +17,12 @@ Control de acceso
 * Inicializadores
 * Protocols
 
-
-## 📺 Enlace a la presentación 
-* https://docs.google.com/presentation/d/1SOY6IXh_NK7cQybbDzV8eAGEK93v16w_S3zpHN9dPJg
-
 ## 💻 Actividades
-* 
-
+- [Nivel de acceso](https://github.com/jorge-benavides/access-control-exercise)
 
 ## 📚 Referencias
 * https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html
 * https://weiseratel.com/lenguaje/swift/modificadores-de-acceso/
+
+## 📺 Enlace a la presentación 
+- [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

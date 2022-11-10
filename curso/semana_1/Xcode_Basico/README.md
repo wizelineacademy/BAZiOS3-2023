@@ -1,14 +1,20 @@
-# :tv: Video y Presentación
-- [Viernes 2 Sep - Xcode y configuracion de proyecto](https://drive.google.com/file/d/11peu6L3joAXfwvRhHyI-GA8efMStl1XF/view?usp=sharing)
-- [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1-yevD_Fnn5fth85HbPfSLxd96Oe3z1tv/view?usp=sharing)
+# Sesión 3
 
+## Xcode
+- ¿Qué es Xcode?
+- Manejo de Archivos
+- Herramientas dentro de Xcode
+- Simuladores
 
-# :clipboard: Recursos de la lección
+## Pruebas Unitarias
+- Introducción
+- Configuración
+- Elementos de prueba
+    - Afirmaciones
+    - Desempeño
+    - Expectativa
 
-- [Xcode y confifiguración de proyecto](https://docs.google.com/presentation/d/1RRcdyLp-OZ0NZOsin9PkXG0DRfBRzbYXM5Y8tv4Zbgc/edit#slide=id.g122bd9d92f9_1_72)
-
-# :computer: Actividades
-
+## 💻 Actividades
 - Crea un proyecto nuevo de una aplicación iOS activando el control de cambios
 - Crea 2 carpetas en el proyecto y separa los ViewController de los Storyboard.
 - Selecciona el simulador de iPhone 13 mini.
@@ -23,7 +29,8 @@ Datos de prueba:
 <img width="525" alt="QA-sesion3" src="https://user-images.githubusercontent.com/110190478/188180053-47cc70ca-566f-40b1-a83c-92e6016fbff9.png">
 
 
-
-# :books: Para aprender más
-
+## 📚 Referencias
 - [Xcode, lo básico](https://buildfire.com/xcode-tutorial/)
+
+## 📺 Enlace a la presentación 
+- [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

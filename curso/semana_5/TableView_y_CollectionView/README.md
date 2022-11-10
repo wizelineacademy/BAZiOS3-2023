@@ -6,12 +6,7 @@
 - Casos de uso
 - Delegados y datasource
 
-## :clipboard: Recursos de la lección
-
-- [Table Views & Collection Views](https://docs.google.com/presentation/d/19ijy6ecR5b2HtBhsZKVNv5cTvIcMoDxqOfW4ZkB0JRc/edit?usp=sharing)
-
-## :computer: Actividades
-
+## 💻 Actividades
 - Crea una vista con una tabla que muestre un listado de los participantes del curso. 
 - Cada celda debe tener como título el nombre del participante y en la descripción 1 párrafo de lorem ipsum con una cantidad aleatoria de palabras. [Lorem ipsum generator](https://loremipsum.io/)
 - Permitir actualizar el orden de las celdas y actualizar la info para que al scrollear no se pierda el orden
@@ -26,8 +21,9 @@
 - Al hacer click en la celda se debe imprimir el nombre del ícono
 - Al hacer click en el botón se debe mostrar un warning con el texto "El botón seleccionado fue el del ícono (NOMBRE DEL ÍCONO)"
 
-
-## :books: Para aprender más
-
+## 📚 Referencias
 - [UITableView basics](https://medium.com/@vialyx/ios-dev-course-uitableview-67ac33ce760e)
 - [UICollectionView basics](https://medium.com/@vialyx/ios-dev-course-uicollectionview-a3482ab5633)
+
+## 📺 Enlace a la presentación 
+- [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)
