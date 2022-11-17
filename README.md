@@ -40,34 +40,34 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1
-   1. [Introducción a Swift](curso/semana_1/Introduccion_a_Swift)
-   2. [Opcionales, manejo de colecciones y principios SOLID](curso/semana_1/Opcionales_y_colecciones)
-   3. [Xcode Básico y pruebas unitarias)](curso/semana_1/Xcode_Basico)
+   1. [Básicos y Operadores](curso/semana_1/sesion_1)
+   2. [Tipos de colecciones y Bloques de control](curso/semana_1/sesion_2)
+   3. [Funciones y Closures](curso/semana_1/sesion_3)
 
 ### Semana 2 
-   1. [Git](curso/semana_2/Git)
-   2. [Value Types & Reference Types](curso/semana_2/Value_y_Reference_Types)
-   3. [Herencia](curso/semana_2/Herencia)
+   1. [Definiciones y Propiedades](curso/semana_2/sesion_1)
+   2. [Herencia e Inicializadores](curso/semana_2/sesion_2)
+   3. [Git y Xcode](curso/semana_2/sesion_3)
 
 ### Semana 3
-   1. [Protocolos y delegados](curso/semana_3/protocolos_y_delegados)
-   2. [Control de Accesos](curso/semana_3/control_de_acceso)
-   3. [Patrones de diseño](curso/semana_3/patrones_de_diseño)
+   1. [Ciclo de vida de una app](curso/semana_3/sesion_1)
+   2. [UIKit y componentes básicos](curso/semana_3/sesion_2)
+   3. [Interface Builder y UITableViewController](curso/semana_3/sesion_3)
 
 ### Semana 4
-   1. [Ciclo de vida de una app](hcurso/semana_4/Ciclo_de_una_app)
-   2. [NIBs & Storyboards](curso/semana_4/NIBs_&_Storyboards)
-   3. [UIKit y componentes básicos](curso/semana_4/UIKit_Components)
+   1. [Protocolos](hcurso/semana_4/sesion_1)
+   2. [Patrones de diseño](curso/semana_4/sesion_2)
+   3. [MVC](curso/semana_4/sesion_3)
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
-   1. [Table Views & Collection Views](curso/semana_5/TableView_y_CollectionView)
-   2. [Extensiones](curso/semana_5/Extensiones)
-   3. [Notification Center](curso/semana_5/Notification_Center)
+   1. [URLSession y Manejo de errores](curso/semana_5/sesion_1)
+   2. [Pruebas unitarias](curso/semana_5/sesion_2)
+   3. [Principios SOLID](curso/semana_5/sesion_3)
 
 ### Semana 6
-   1. [Closures](curso/semana_6/Closures)
-   2. [ARC](curso/semana_6/ARC)
-   3. [Servicios REST](curso/semana_6/Servicios_REST)
+   1. [ARC](curso/semana_6/sesion_1)
+   2. [Notification Center](curso/semana_6/sesion_2)
+   3. [Control de Accesos](curso/semana_6/sesion_3)
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
@@ -84,18 +84,13 @@ Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforz
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
-| ID Empleado | Nombre                              | Mentor |
-| ----------: | :---------------------------------- | :-------------------------- |
-|    |                         | [Ana Anguiano](https://github.com/anaacruz)              |
-|      |                        | [Ana Anguiano](https://github.com/anaacruz)              |
-|      |                     | [Michel Torres](https://github.com/mtorres0)             |
-|     |                       | [Michel Torres](https://github.com/mtorres0)             |
-|       |                        | [Josué Quiñonez](https://github.com/JosueQuinonesRivera) |
-|      |                         | [Josué Quiñonez](https://github.com/JosueQuinonesRivera) |
-|      |                         | [Uriel Pachecho](https://github.com/VictorUrielP)        |
-|      |                    | [Uriel Pachecho](https://github.com/VictorUrielP)        |
-|     |                         | [Alejandro Martínez](https://github.com/alejandrombWize) |
-|      |                        | [Alejandro Martínez](https://github.com/alejandrombWize) |
+| ID Empleado | Nombre                  | Mentor                                                    |
+| ----------: | :---------------------- | :-------------------------------------------------------- |
+|             |                         | [Ana Anguiano](https://github.com/anaacruz)               |
+|             |                         | [Michel Torres](https://github.com/mtorres0)              |
+|             |                         | [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
+|             |                         | [Uriel Pachecho](https://github.com/VictorUrielP)         |
+|             |                         | [Alejandro Martínez](https://github.com/alejandrombWize)  |
 
 # V. Agenda tu mentoria 📆
 Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
