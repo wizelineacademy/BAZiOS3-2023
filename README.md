@@ -14,7 +14,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Sesiones en Vivo** 
 - Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Martes y Jueves: 2pm en oficinas de Wizeline - [Liga zoom](TODO:) en caso de no poderse presentar
+- Lunes y Martes: 2pm en oficinas de Wizeline - [Liga zoom](TODO:) en caso de no poderse presentar
 - Viernes: 9am en línea por [Zoom](TODO:)
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
@@ -86,11 +86,11 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 | ID Empleado | Nombre                  | Mentor                                                    |
 | ----------: | :---------------------- | :-------------------------------------------------------- |
-|             |                         | [Ana Anguiano](https://github.com/anaacruz)               |
-|             |                         | [Michel Torres](https://github.com/mtorres0)              |
-|             |                         | [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
-|             |                         | [Uriel Pachecho](https://github.com/VictorUrielP)         |
-|             |                         | [Alejandro Martínez](https://github.com/alejandrombWize)  |
+| TODO:       | TODO:                   | [Ana Anguiano](https://github.com/anaacruz)               |
+| TODO:       | TODO:                   | [Michel Torres](https://github.com/mtorres0)              |
+| TODO:       | TODO:                   | [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
+| TODO:       | TODO:                   | [Uriel Pachecho](https://github.com/VictorUrielP)         |
+| TODO:       | TODO:                   | [Alejandro Martínez](https://github.com/alejandrombWize)  |
 
 # V. Agenda tu mentoria 📆
 Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:

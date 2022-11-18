@@ -1,7 +1,7 @@
 Sesión 2
 -
 
-## UKit
+## 🌈 UKit
 Revisar los primeros pasos en UIKit, viendo sus componentes, su estructura y cómo comenzar a desarrollar una app con el framework.
 
 - Introducción
@@ -14,7 +14,7 @@ Revisar los primeros pasos en UIKit, viendo sus componentes, su estructura y có
 - UIControl
 
 ## 💻 Actividades
-- [Topic](https://leetcode.com/playground/)
+- [Elementos básicos de UIKit](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
