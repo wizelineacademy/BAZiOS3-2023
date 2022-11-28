@@ -1,16 +1,6 @@
 import Foundation
 
 do {
-    var eOptionalInt: Optional<Int> = 1
-    let iOptionalInt: Int? = 1
-    
-    type(of: eOptionalInt) == type(of: iOptionalInt)
-    
-    eOptionalInt = iOptionalInt
-}
-
-
-do {
     // userFavoriteAnimal se asigna nil por default
     var userFavoriteAnimal = Optional<String>("Dogs")
     // Optional("Dogs")
@@ -116,25 +106,51 @@ do {
     // Hello John
 }
 
-
-
 do {
-    let fistNname: String? = "Leslie"
+    let firstName: String? = "Leslie"
     let lastName: String? = "Atkins"
     var fullname = ""
     let travelBy: (bus: Int?, car:  Int?)? = (1400, 1120)
     var avgDistance: Double = 0
     // ⬇ code here
-    if let fistNname = fistNname, let lastName = lastName {
-        fullname += fistNname
+    // ⬆
+    print("\(fullname) recorrio una distancia promedio de \(avgDistance) metros por medio de transporte")
+    // Leslie Atkins recorrio una distancia promedio de 1260.0 metros por medio de transporte
+}
+
+do {
+    let firstName: String? = "Leslie"
+    let lastName: String? = "Atkins"
+    var fullname = ""
+    let travelBy: (bus: Int?, car:  Int?)? = (1400, 1120)
+    var avgDistance: Double = 0
+    // ⬇ code here
+    if let firstName = firstName, let lastName = lastName {
+        fullname += firstName
         fullname += " "
         fullname += lastName
     }
-    if let travelBy = travelBy  {
-        avgDistance += Double(travelBy.bus ?? 0)
-        avgDistance += Double(travelBy.car ?? 0)
+    if let travelBy = travelBy, let byBus = travelBy.bus, let byCar = travelBy.car  {
+        avgDistance += Double(byBus)
+        avgDistance += Double(byCar)
         avgDistance /= 2
     }
+    // ⬆
+    print("\(fullname) recorrio una distancia promedio de \(avgDistance) metros por medio de transporte")
+    // Leslie Atkins recorrio una distancia promedio de 1260.0 metros por medio de transporte
+}
+
+do {
+    let firstName: String? = "Leslie"
+    let lastName: String? = "Atkins"
+    var fullname = ""
+    let travelBy: (bus: Int?, car:  Int?)? = (1400, 1120)
+    var avgDistance: Double = 0
+    // ⬇ code here
+    fullname = (firstName?.appending(" ") ?? "") + (lastName ?? "")
+
+    avgDistance += Double((travelBy?.bus ?? 0) + (travelBy?.car ?? 0))
+    avgDistance /= (travelBy?.bus != nil && travelBy?.car != nil ? 2:1)
     // ⬆
     print("\(fullname) recorrio una distancia promedio de \(avgDistance) metros por medio de transporte")
     // Leslie Atkins recorrio una distancia promedio de 1260.0 metros por medio de transporte

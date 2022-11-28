@@ -66,10 +66,10 @@ do {
 
 do {
     // Tuple con nombre no cambia el tipo de dato
-    let tupe: (String, Int) = ("José", 33)
+    let tuple: (String, Int) = ("José", 33)
     var namedTuple: (name: String, age: Int) = ("Juan", 31)
 
-    namedTuple = tupe
+    namedTuple = tuple
 }
 
 do {
