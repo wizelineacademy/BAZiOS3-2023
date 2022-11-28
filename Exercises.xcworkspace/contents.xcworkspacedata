@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "S01">
+      <FileRef
+         location = "group:curso/semana_1/sesion_1/Basicos.playground">
+      </FileRef>
+      <FileRef
+         location = "group:curso/semana_1/sesion_1/Opcionales.playground">
+      </FileRef>
+   </Group>
+</Workspace>
