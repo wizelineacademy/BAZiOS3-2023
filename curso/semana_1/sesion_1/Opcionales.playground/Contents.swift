@@ -2,7 +2,7 @@ import Foundation
 
 do {
     // userFavoriteAnimal se asigna nil por default
-    var userFavoriteAnimal = Optional<String>("Dogs")
+    var userFavoriteAnimal = String?("Dogs")
     // Optional("Dogs")
 
     userFavoriteAnimal = nil
