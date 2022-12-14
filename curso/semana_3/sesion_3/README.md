@@ -1,25 +1,21 @@
 Sesión 3
 -
 
-## Interface Builder
+## MVVM
+- Diseño de arquitetura
+- Caracteristicas
 
-- NIBs
-- Storyboards
-- Ventajas y desventajas
-- UI puramente con código
-
-## UITableViewController
-- Sublcase
-- Manejo de celdas
-- Manejar interacción de usuario
+## VIPER
+- Diseño de arquitetura
+- Caracteristicas
 
 ## 💻 Actividades
-- [Topic](https://leetcode.com/playground/)
+- [VIPER](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-
-- [UITableViewController](https://www.appypie.com/table-view-controller-uitableviewcontroller-how-to)
+- https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm
+- https://medium.com/swift-india/viper-architecture-example-in-ios-in-swift-4-6f656a441f7c
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)
