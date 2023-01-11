@@ -3,10 +3,10 @@
 # I. Bienvenida
 Bienvenido a tu capacitación de Mobile IOS que consta de 6 semanas de entrenamiento.
 
-[Liga Acceso Telegram grupal](TODO:)
+[Liga Acceso Telegram grupal](https://t.me/+X-iTEuVt3eE3MTgx)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario](TODO:)
+![Calendario]()
 
 
 # II. Información general del entrenamiento
