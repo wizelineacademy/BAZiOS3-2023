@@ -108,6 +108,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/zPhAwxjx11a
 - [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)
 - [Heber Alvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)
 - [Emiliano Martinez](https://calendly.com/emi-mtz)
+- [Josué Quiñones](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
