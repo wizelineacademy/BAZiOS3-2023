@@ -20,7 +20,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 3
 - [Martes 7 Feb - Protocolos y Delegados]()
 - 📺 [Grabacion Martes 7 Feb]()
-- [Miércoles 8 Feb* - Patrones de diseño]()
+- [Miércoles 8 Feb - Patrones de diseño]()
 - 📺 [Grabacion Miércoles 8 Feb]()
 - [Viernes 10 Feb - MVVM VIPER]()
 - 📺 [Grabacion Viernes 10 Feb]()
