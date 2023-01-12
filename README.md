@@ -86,11 +86,12 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 | ID Empleado | Nombre                  | Mentor                                                    |
 | ----------: | :---------------------- | :-------------------------------------------------------- |
-| TODO:       | TODO:                   | [Ana Anguiano](https://github.com/anaacruz)               |
+| TODO:       | TODO:                   | [Benny Reyes]()                                           |
+| TODO:       | TODO:                   | [Emiliano Martínez](https://github.com/mtorres0)          |
+| TODO:       | TODO:                   | [Heber Álvarez](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Michel Torres](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
-| TODO:       | TODO:                   | [Uriel Pachecho](https://github.com/VictorUrielP)         |
-| TODO:       | TODO:                   | [Alejandro Martínez](https://github.com/alejandrombWize)  |
+
 
 # V. Agenda tu mentoria 📆
 Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
@@ -98,16 +99,11 @@ Si deseas tener una mentoria personalizada en línea con alguno de los mentores,
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/zPhAwxjx11aJfWSw8) al final de tu mentoría.
 
-- [Jorge Benavides](https://calendly.com/jorge-benavides/baz-mentoria)
-- [Uriel Pachecho](https://calendly.com/wizeline-uriel-pacheco/baz-mentoria-1-1)
-- [Ana Anguiano](https://calendly.com/ana-anguiano/baz-mentoria-1-1)
+- [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1%7C)
+- [Emiliano Martínez](https://calendly.com/emi-mtz)
+- [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)
 - [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)
-- [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
-- [Abner Castro](https://calendly.com/abner-castro/baz-mentoria-1-1)
 - [Josue Quiñonez](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)
-- [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)
-- [Heber Alvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)
-- [Emiliano Martinez](https://calendly.com/emi-mtz)
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
