@@ -91,6 +91,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | TODO:       | TODO:                   | [Heber Álvarez](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Michel Torres](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
+| TODO:       | TODO:                   | [Alejandro Martinez](https://github.com/alejandrombWize)  |
 
 
 # V. Agenda tu mentoria 📆
@@ -104,6 +105,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/zPhAwxjx11a
 - [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)
 - [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)
 - [Josue Quiñonez](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)
+- [Alejandro Martinez](https://calendly.com/alejandro-mb/mentorias-baz)
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
