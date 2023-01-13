@@ -28,7 +28,7 @@ Sesión 1
     - Aplica lo aprendido TODO:
     
 - [Operadores](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
+    - Realiza la declaración de los siguientes datos que almacenen
 
 ## 📚 Referencias
 - https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
