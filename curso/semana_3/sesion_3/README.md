@@ -10,7 +10,7 @@ Sesión 3
 - Caracteristicas
 
 ## 💻 Actividades
-- [VIPER](https://leetcode.com/playground/)
+- [MVVM](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias

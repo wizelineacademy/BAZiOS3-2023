@@ -56,8 +56,8 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
    
 ### Semana 4
    1. [Ciclo de vida de una app](curso/semana_4/sesion_1)
-   2. [UIKit y componentes básicos](curso/semana_4/sesion_2)
-   3. [Interface Builder y UITableViewController](curso/semana_4/sesion_3)
+   2. [Interface Builder y UITableViewController](curso/semana_4/sesion_2)
+   3. [UIKit y componentes básicos](curso/semana_4/sesion_3)
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
    1. [URLSession y Manejo de errores](curso/semana_5/sesion_1)
