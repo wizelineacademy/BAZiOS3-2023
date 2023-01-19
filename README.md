@@ -84,14 +84,14 @@ Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforz
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
-| ID Empleado | Nombre                  | Mentor                                                    |
+| ID Empleado | Nombre                  | Mentor (Calendly)           |Mentor Github                                                   |
 | ----------: | :---------------------- | :-------------------------------------------------------- |
-| TODO:       | TODO:                   | [Benny Reyes]()                                           |
-| TODO:       | TODO:                   | [Emiliano Martínez](https://github.com/mtorres0)          |
-| TODO:       | TODO:                   | [Heber Álvarez](https://github.com/mtorres0)              |
-| TODO:       | TODO:                   | [Michel Torres](https://github.com/mtorres0)              |
-| TODO:       | TODO:                   | [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
-| TODO:       | TODO:                   | [Alejandro Martinez](https://github.com/alejandrombWize)  |
+| TODO:       | TODO:                   | [Benny Reyes]()|[Benny Reyes](https://github.com/BennyWz)                                           |
+| TODO:       | TODO:                   | [Emiliano Martínez]()|[Emiliano Martínez](https://github.com/mtorres0)          |
+| TODO:       | TODO:                   | [Heber Álvarez]()|[Heber Álvarez](https://github.com/mtorres0)              |
+| TODO:       | TODO:                   | [Michel Torres]()|[Michel Torres](https://github.com/mtorres0)              |
+| TODO:       | TODO:                   | [Josué Quiñonez]()|[Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
+| TODO:       | TODO:                   | [Alejandro Martinez]()|[Alejandro Martinez](https://github.com/alejandrombWize)  |
 
 
 # V. Agenda tu mentoria 📆
