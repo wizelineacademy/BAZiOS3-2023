@@ -98,9 +98,9 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/zPhAwxjx11a
 | 1033951     | NESTOR ALFONSO SANCHEZ JACOBO | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](https://github.com/BennyWz) |
 | 1014600     | ROBERTO DE JESUS ARZOLA HINOJOSA | [Emiliano Martínez](https://calendly.com/emi-mtz)| [Emiliano Martínez]()         |
 | 1029187     | ADRIAN LUDWIG GOROCICA CORAL| [Emiliano Martínez](https://calendly.com/emi-mtz)| [Emiliano Martínez]()          |
-| 1031406     | ARIADNA CECILIA LOPEZ COLIN | [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez]()              |
-| 279185      | ASAEL VIRGILIO OROPEZA | [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez]()              |
-|  1058889    | GERARDO BAUTISTA CASTAÑEDA| [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez]()              |
+| 1031406     | ARIADNA CECILIA LOPEZ COLIN | [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez](https://github.com/HeberRaz)              |
+| 279185      | ASAEL VIRGILIO OROPEZA | [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez](https://github.com/HeberRaz)              |
+|  1058889    | GERARDO BAUTISTA CASTAÑEDA| [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez](https://github.com/HeberRaz)              |
 | 1050058     | LEOBARDO GAMA MUÑOZ | [Josué Quiñonez](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
 | 1050210     | ALEJANDRO BRITO FUENTE | [Josué Quiñonez](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
 | 1050048     | BRENDA PAOLA LARA MORENO | [Josué Quiñonez](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
