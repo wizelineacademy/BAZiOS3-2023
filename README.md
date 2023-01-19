@@ -91,7 +91,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | TODO:       | TODO:                   | [Heber Álvarez]()| [Heber Álvarez](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Michel Torres]()| [Michel Torres](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Josué Quiñonez]()| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
-| TODO:       | TODO:                   | [Alejandro Martinez]()| [Alejandro Martinez](https://github.com/alejandrombWize)  |
+| TODO:       | TODO:                   | [Alejandro Martinez]()| [Alejandro Martinez](BennyWz)  |
 
 
 # V. Agenda tu mentoria 📆
