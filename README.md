@@ -86,12 +86,12 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 | ID Empleado | Nombre                  | Mentor (Calendly)           | Mentor Github                |
 | ----------: | :---------------------- | :-------------------------- | :--------------------------
-| TODO:       | TODO:                   | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](BennyWz) |
+| TODO:       | TODO:                   | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](https://github.com/BennyWz) |
 | TODO:       | TODO:                   | [Emiliano Martínez]()| [Emiliano Martínez](https://github.com/mtorres0)          |
 | TODO:       | TODO:                   | [Heber Álvarez]()| [Heber Álvarez](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Michel Torres]()| [Michel Torres](https://github.com/mtorres0)              |
 | TODO:       | TODO:                   | [Josué Quiñonez]()| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
-| TODO:       | TODO:                   | [Alejandro Martinez](https://calendly.com/alejandro-mb/mentorias-baz)| [Alejandro Martinez]()  |
+| TODO:       | TODO:                   | [Alejandro Martinez](https://calendly.com/alejandro-mb/mentorias-baz)| [Alejandro Martinez](https://github.com/alejandrombWize)  |
 
 
 # V. Agenda tu mentoria 📆
