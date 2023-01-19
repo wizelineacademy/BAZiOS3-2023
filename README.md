@@ -88,7 +88,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 Selecciona la liga de Calendly de tu mentor asignado, te abrirá su calendario con la disponibilidad por día y horarios. Elige la que mejor se acomode a tu necesidad.
 
-Si deseas tener una mentoría, adicional a las de tu proyecto final, puedes seleccionar a cualquier otro mentor con base en su disponibilidad o expertise:
+Si deseas tener una mentoría, adicional a las de tu proyecto final, puedes seleccionar a cualquier otro mentor con base en su disponibilidad:
 
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/zPhAwxjx11aJfWSw8) al final de tu mentoría.
 
