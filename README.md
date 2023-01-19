@@ -96,8 +96,8 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/zPhAwxjx11a
 | ----------: | :---------------------- | :-------------------------- | :--------------------------
 | 1034209     | ANDRES VILLANUEVA SANCHEZ | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](https://github.com/BennyWz) |
 | 1033951     | NESTOR ALFONSO SANCHEZ JACOBO | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](https://github.com/BennyWz) |
-| 1014600     | ROBERTO DE JESUS ARZOLA HINOJOSA | [Emiliano Martínez](https://calendly.com/emi-mtz)| [Emiliano Martínez](https://github.com/mtorres0)         |
-| 1029187     | ADRIAN LUDWIG GOROCICA CORAL| [Emiliano Martínez](https://calendly.com/emi-mtz)| [Emiliano Martínez](https://github.com/mtorres0)          |
+| 1014600     | ROBERTO DE JESUS ARZOLA HINOJOSA | [Emiliano Martínez](https://calendly.com/emi-mtz)| [Emiliano Martínez]()         |
+| 1029187     | ADRIAN LUDWIG GOROCICA CORAL| [Emiliano Martínez](https://calendly.com/emi-mtz)| [Emiliano Martínez]()          |
 | 1031406     | ARIADNA CECILIA LOPEZ COLIN | [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez]()              |
 | 279185      | ASAEL VIRGILIO OROPEZA | [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez]()              |
 |  1058889    | GERARDO BAUTISTA CASTAÑEDA| [Heber Álvarez](https://calendly.com/heber-alvarez/baz-mentoria-1-1)| [Heber Álvarez]()              |
