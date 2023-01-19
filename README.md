@@ -86,12 +86,22 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 | ID Empleado | Nombre                  | Mentor (Calendly)           | Mentor Github                |
 | ----------: | :---------------------- | :-------------------------- | :--------------------------
-| TODO:       | TODO:                   | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](https://github.com/BennyWz) |
-| TODO:       | TODO:                   | [Emiliano Martínez]()| [Emiliano Martínez](https://github.com/mtorres0)          |
-| TODO:       | TODO:                   | [Heber Álvarez]()| [Heber Álvarez](https://github.com/mtorres0)              |
-| TODO:       | TODO:                   | [Michel Torres]()| [Michel Torres](https://github.com/mtorres0)              |
-| TODO:       | TODO:                   | [Josué Quiñonez]()| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
-| TODO:       | TODO:                   | [Alejandro Martinez](https://calendly.com/alejandro-mb/mentorias-baz)| [Alejandro Martinez](https://github.com/alejandrombWize)  |
+| 1034209     | ANDRES VILLANUEVA SANCHEZ | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](https://github.com/BennyWz) |
+| 1033951     | NESTOR ALFONSO SANCHEZ JACOBO | [Benny Reyes](https://calendly.com/benny-reyes/baz-mentoria-1-1)| [Benny Reyes](https://github.com/BennyWz) |
+| 1014600     | ROBERTO DE JESUS ARZOLA HINOJOSA | [Emiliano Martínez]()| [Emiliano Martínez](https://github.com/mtorres0)         |
+| 1029187     | ADRIAN LUDWIG GOROCICA CORAL| [Emiliano Martínez]()| [Emiliano Martínez](https://github.com/mtorres0)          |
+| 1031406     | ARIADNA CECILIA LOPEZ COLIN | [Heber Álvarez]()| [Heber Álvarez](https://github.com/mtorres0)              |
+| 279185      | ASAEL VIRGILIO OROPEZA | [Heber Álvarez]()| [Heber Álvarez](https://github.com/mtorres0)              |
+|  1058889    | GERARDO BAUTISTA CASTAÑEDA| [Heber Álvarez]()| [Heber Álvarez](https://github.com/mtorres0)              |
+| 1050058     | LEOBARDO GAMA MUÑOZ | [Josué Quiñonez]()| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
+| 1050210     | ALEJANDRO BRITO FUENTE | [Josué Quiñonez]()| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
+| 1050048     | BRENDA PAOLA LARA MORENO | [Josué Quiñonez]()| [Josué Quiñonez](https://github.com/JosueQuinonesRivera)  |
+| 1048527     | MARIO EDUARDO ARCEO RODRÍGUEZ | [Alejandro Martinez](https://calendly.com/alejandro-mb/mentorias-baz)| [Alejandro Martinez](https://github.com/alejandrombWize)  |
+| 343259      | HUGO ALBERTO LECHUGA CANALES| [Alejandro Martinez](https://calendly.com/alejandro-mb/mentorias-baz)| [Alejandro Martinez](https://github.com/alejandrombWize)  |
+| 72281       | ESMERALDA ANGELES MENDOZA| [Alejandro Martinez](https://calendly.com/alejandro-mb/mentorias-baz)| [Alejandro Martinez](https://github.com/alejandrombWize)  |
+| 92954       | JONATHAN MANUEL HERNANDEZ RAMOS| [Michel Torres]()| [Michel Torres](https://github.com/mtorres0)              |
+| 947119      | LUIS ALBERTO PEREZ VILLAR | [Michel Torres]()| [Michel Torres](https://github.com/mtorres0)              |
+
 
 
 # V. Agenda tu mentoria 📆
