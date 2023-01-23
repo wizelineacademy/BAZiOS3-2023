@@ -6,7 +6,10 @@ Bienvenido a tu capacitación de Mobile IOS que consta de 6 semanas de entrenami
 [Liga Acceso Telegram grupal](https://t.me/+X-iTEuVt3eE3MTgx)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario Bloque 3](https://github.com/wizelineacademy/BAZiOS3-2022/blob/main/Calendario%20Bloque%203%20iOS.png)
+
+Calendario iOS Bloque 3 <br>
+<img width="520" alt="Calendario iOS Bloque 3" src="https://user-images.githubusercontent.com/94467952/214110425-e97f0a65-b429-4a30-82cf-723e765776f7.png">
+
 
 
 # II. Información general del entrenamiento
