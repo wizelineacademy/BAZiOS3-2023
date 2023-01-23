@@ -6,11 +6,8 @@ Bienvenido a tu capacitación de Mobile IOS que consta de 6 semanas de entrenami
 [Liga Acceso Telegram grupal](https://t.me/+X-iTEuVt3eE3MTgx)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-
 Calendario iOS Bloque 3 <br>
 <img width="520" alt="Calendario iOS Bloque 3" src="https://user-images.githubusercontent.com/94467952/214110425-e97f0a65-b429-4a30-82cf-723e765776f7.png">
-
-
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
