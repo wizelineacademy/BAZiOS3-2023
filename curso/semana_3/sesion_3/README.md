@@ -1,6 +1,10 @@
 Sesión 3
 -
 
+## Arquitectura de software
+- ¿Qué es la arquitectura de software?
+- ¿Por qué utilizar una arquitectura de software?
+
 ## MVVM
 - Diseño de arquitetura
 - Caracteristicas
@@ -10,8 +14,10 @@ Sesión 3
 - Caracteristicas
 
 ## 💻 Actividades
-- [MVVM](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
+- [MVVM]
+    - Descarga el proyecto 'RefactorMVVM'.
+    - Correlo y revisa su funcionamiento.
+    - Encontrarás un contador para un partido de tennis con arquitectura MVC, la tarea es hacer un refactor para que el proyecto utilice una arquitectura MVVM.
 
 ## 📚 Referencias
 - https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm
