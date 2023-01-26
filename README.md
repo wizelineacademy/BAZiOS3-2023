@@ -110,6 +110,8 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/zPhAwxjx11a
 | 92954       | JONATHAN MANUEL HERNANDEZ RAMOS| [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)| [Michel Torres](https://github.com/mtorres0)              |
 | 947119      | LUIS ALBERTO PEREZ VILLAR | [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)| [Michel Torres](https://github.com/mtorres0)              |
 
+Mentores asignados
+
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
