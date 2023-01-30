@@ -7,7 +7,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 26 Ene - Tipos de colecciones y bloques de control](https://drive.google.com/file/d/156A7iCS-1OZwU7cTzWxo-TLRVCO0CaVZ/view?usp=sharing)
 - 📺 [Grabacion Jueves 26 Ene](https://drive.google.com/file/d/1eDauASBDHC0vQL8ZQaWgHeqO5WuTnZXk/view?usp=sharing)
 - [Viernes 27 Ene - Funciones y closures](https://drive.google.com/file/d/1tigZ2RjUqTGXOKepkCJVp_Izp00hywhb/view?usp=sharing)
-- 📺 [Grabacion Viernes 27 Ene]()
+- 📺 [Grabacion Viernes 27 Ene](https://drive.google.com/file/d/1Sxqfpk32EcY5KDh3PacMfw1ypxnCCrJI/view?usp=sharing)
 
 # Semana 2
 - [Miércoles 1 Feb - Definiciones y propiedades](https://drive.google.com/file/d/1XzZ2_Qv4MOSn0JbpxceqQ4NKBr8JOzxI/view?usp=sharing)
