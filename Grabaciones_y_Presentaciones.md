@@ -12,7 +12,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 2
 - [Miércoles 1 Feb - Definiciones y propiedades](https://drive.google.com/file/d/1XzZ2_Qv4MOSn0JbpxceqQ4NKBr8JOzxI/view?usp=sharing)
 - 📺 [Grabacion Miércoles 1 Feb ]()
-- [Jueves 2 Feb - Herencia e inicializadores](https://drive.google.com/file/d/1zWKtdNqM_ltCgMWoMLVF3DT4-NN4z4vw/view?usp=sharing)
+- [Jueves 2 Feb - Herencia e inicializadores](https://drive.google.com/file/d/1I3Xdy0Ya804Zu5t6xoKFB8q4rkQ2qoHv/view?usp=sharing)
 - 📺 [Grabacion Jueves 2 Feb]()
-- [Viernes 3 Feb - Git y Xcode](https://drive.google.com/file/d/10bQR-havDfSXUdyqfU0XTTJBBQGOU3ku/view?usp=sharing)
+- [Viernes 3 Feb - Git y Xcode](https://drive.google.com/file/d/1G7TvPJ_X866XYciu8VEWin767Z6ARdW9/view?usp=sharing)
 - 📺 [Grabacion Viernes 3 Feb]()
