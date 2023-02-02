@@ -10,7 +10,7 @@ Sesión 2
 
 ## 💻 Actividades
 - [Patrones de diseño](https://leetcode.com/playground/)
-    - Clona el repositorio TODO.
+    - Clona el repositorio [link](curso/semana_3/sesion_2/design-patterns-exercises-main).
     - Abre el archivo correspondiente a cada tipo de patrón.
     - Sigue las instrucciones de cada archivo.
 

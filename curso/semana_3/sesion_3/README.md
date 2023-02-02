@@ -15,7 +15,7 @@ Sesión 3
 
 ## 💻 Actividades
 - [MVVM]
-    - Descarga el proyecto 'RefactorMVVM'.
+    - Descarga el proyecto 'RefactorMVVM' [link](curso/semana_3/sesion_3/RefactorMVVM).
     - Correlo y revisa su funcionamiento.
     - Encontrarás un contador para un partido de tennis con arquitectura MVC, la tarea es hacer un refactor para que el proyecto utilice una arquitectura MVVM.
 
