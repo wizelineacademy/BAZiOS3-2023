@@ -15,7 +15,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 2 Feb - Herencia e inicializadores](https://drive.google.com/file/d/1I3Xdy0Ya804Zu5t6xoKFB8q4rkQ2qoHv/view?usp=sharing)
 - 📺 [Grabacion Jueves 2 Feb](https://drive.google.com/file/d/150c7xCp674cCWQNjyKmGfEhu9tWYsgps/view?usp=sharing)
 - [Viernes 3 Feb - Git y Xcode](https://drive.google.com/file/d/1G7TvPJ_X866XYciu8VEWin767Z6ARdW9/view?usp=sharing)
-- 📺 [Grabacion Viernes 3 Feb]()
+- 📺 [Grabacion Viernes 3 Feb](https://drive.google.com/file/d/1SfI3fuLF_hN-LIMG_Z1dXwt0JVCb-CIj/view?usp=sharing)
 
 # Semana 3
 - [Miércoles 8 Feb - Protocolos y Delegados](https://drive.google.com/file/d/1Gr3Ga1xmJzc-I1IeAwCEEQLyA2bMhvXD/view?usp=sharing)
