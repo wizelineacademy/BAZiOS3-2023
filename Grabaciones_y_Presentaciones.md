@@ -18,9 +18,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 3 Feb]()
 
 # Semana 3
-- [Miércoles 8 Feb - Protocolos y Delegados](https://drive.google.com/file/d/13icX35HrFZ5_7IPTpHMykJv8PnArXiCR/view?usp=sharing)
+- [Miércoles 8 Feb - Protocolos y Delegados](https://drive.google.com/file/d/1Gr3Ga1xmJzc-I1IeAwCEEQLyA2bMhvXD/view?usp=sharing)
 - 📺 [Grabacion Miércoles 1 Feb ]()
-- [Jueves 9 Feb - Patrones de diseño](https://drive.google.com/file/d/1RlDCv4e8yYt8HPMIGlLI88rJuf-EEfe1/view?usp=sharing)
+- [Jueves 9 Feb - Patrones de diseño](https://drive.google.com/file/d/17DNGXvF_dUG3cw_XFRLdE73CWaCjMkf9/view?usp=sharing)
 - 📺 [Grabacion Jueves 2 Feb]()
 - [Viernes 10 Feb - MVVM VIPER](https://drive.google.com/file/d/1IxTh62GaB3iKe3FwkGFfM18k1wig-6pS/view?usp=sharing)
 - 📺 [Grabacion Viernes 3 Feb]()
