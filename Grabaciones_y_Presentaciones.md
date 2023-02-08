@@ -24,5 +24,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Jueves 2 Feb]()
 - [Viernes 10 Feb - MVVM VIPER](https://drive.google.com/file/d/1IxTh62GaB3iKe3FwkGFfM18k1wig-6pS/view?usp=sharing)
 - 📺 [Grabacion Viernes 3 Feb]()
-- 
-- 
+
