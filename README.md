@@ -50,7 +50,7 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
    3. [Git y Xcode](curso/semana_2/sesion_3)
 
 ### Semana 3
-   1. [Protocolos](hcurso/semana_3/sesion_1)
+   1. [Protocolos](curso/semana_3/sesion_1)
    2. [Patrones de diseño](curso/semana_3/sesion_2)
    3. [MVVM - VIPER](curso/semana_3/sesion_3)
    
