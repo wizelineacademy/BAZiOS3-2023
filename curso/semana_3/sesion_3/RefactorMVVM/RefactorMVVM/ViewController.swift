@@ -20,8 +20,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     @IBOutlet weak var matchHistoryTable: UITableView!
     
     //MARK: - Variables inits
-    var player1Score = Scores.love
-    var player2Score = Scores.love
+    var playerScores = [Scores.love, Scores.love]
     var games = [Game]()
     
     //MARK: - ViewController life cycle functions
@@ -36,45 +35,50 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     //MARK: - Button action outlets
     @IBAction func player1PointTapped(_ sender: UIButton) {
-        player1Score = player1Score.getNext()
-        player1ScoreLabel.text = player1Score.getText()
-        
-        if player1Score == .win {
-            let alert = UIAlertController(title: "Partido terminado", message: "Ganó el jugador 1", preferredStyle: .alert)
-            alert.addAction(UIAlertAction(title: NSLocalizedString("Nuevo partido", comment: "Default action"), style: .default, handler: { _ in
-                self.games.append(Game(player1Score: self.player1Score, player2Score: self.player2Score, gameNumber: self.games.count + 1))
-                self.resetScores()
-            }))
-            self.present(alert, animated: true, completion: nil)
-        }
+        playerScore(0)
     }
     
     @IBAction func player2PointTapped(_ sender: UIButton) {
-        player2Score = player2Score.getNext()
-        player2ScoreLabel.text = player2Score.getText()
-        
-        if player2Score == .win {
-            let alert = UIAlertController(title: "Partido terminado", message: "Ganó el jugador 2", preferredStyle: .alert)
-            alert.addAction(UIAlertAction(title: NSLocalizedString("Nuevo partido", comment: "Default action"), style: .default, handler: { _ in
-                self.games.append(Game(player1Score: self.player1Score, player2Score: self.player2Score, gameNumber: self.games.count + 1))
-                self.gameTitleLabel.text = "Partido: \(self.games.count + 1)"
-                self.resetScores()
-            }))
-            self.present(alert, animated: true, completion: nil)
-        }
+        playerScore(1)
     }
     
+    func playerScore(_ playerNumber: Int) {
+        playerScores[playerNumber] = playerScores[playerNumber].getNext()
+        
+        if playerScores[playerNumber].getNext() == .win {
+            winAlert(playerNumber)
+            
+        }
+        
+        updateScores()
+    }
+    
+    func winAlert(_ playerNumber: Int) {
+        let winMessage = "Ganó el jugador \(playerNumber + 1)"
+        let alert = UIAlertController(title: "Partido terminado", message:  winMessage, preferredStyle: .alert)
+        alert.addAction(UIAlertAction(title: NSLocalizedString("Nuevo partido", comment: "Default action"), style: .default, handler: { _ in
+            self.saveGame()
+            self.resetScores()
+        }))
+        self.present(alert, animated: true, completion: nil)
+    }
     
     @IBAction func resetTapped(_ sender: UIButton) {
         resetScores()
     }
     
-    fileprivate func resetScores() {
-        player1Score = Scores.love
-        player2Score = Scores.love
-        player1ScoreLabel.text = player1Score.getText()
-        player2ScoreLabel.text = player2Score.getText()
-        
+    private func saveGame() {
+        games.append(Game(player1Score: playerScores[0], player2Score: playerScores[1], gameNumber: games.count + 1))
+    }
+    
+    private func resetScores() {
+        playerScores = [Scores.love, Scores.love]
+        updateScores()
+    }
+    
+    private func updateScores() {
+        player1ScoreLabel.text = playerScores[0].getText()
+        player2ScoreLabel.text = playerScores[1].getText()
         matchHistoryTable.reloadData()
     }
     
