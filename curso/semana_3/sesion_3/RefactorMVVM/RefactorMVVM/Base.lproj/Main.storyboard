@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="RefactorMVVM" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Partido: 1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6O2-r1-PaI">
+                                <rect key="frame" x="145.33333333333334" y="83" width="102.66666666666666" height="30.333333333333329"/>
+                                <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="22"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="59" translatesAutoresizingMaskIntoConstraints="NO" id="4t9-F3-yCE">
+                                <rect key="frame" x="98.333333333333329" y="169.33333333333334" width="196.33333333333337" height="82"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="31" translatesAutoresizingMaskIntoConstraints="NO" id="kcx-4o-3fk">
+                                        <rect key="frame" x="0.0" y="0.0" width="68.666666666666671" height="82"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Jugador 1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G1h-fI-xFE">
+                                                <rect key="frame" x="0.0" y="0.0" width="68.666666666666671" height="20.666666666666668"/>
+                                                <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="15"/>
+                                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Love" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fhL-2J-NbH">
+                                                <rect key="frame" x="10" y="51.666666666666664" width="49" height="30.333333333333336"/>
+                                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="22"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="31" translatesAutoresizingMaskIntoConstraints="NO" id="lHs-Ry-DwG">
+                                        <rect key="frame" x="127.66666666666666" y="0.0" width="68.666666666666657" height="82"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Jugador 2" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kw5-df-2Ac">
+                                                <rect key="frame" x="0.0" y="0.0" width="68.666666666666671" height="20.666666666666668"/>
+                                                <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="15"/>
+                                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Love" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AwT-ja-ax1">
+                                                <rect key="frame" x="10" y="51.666666666666664" width="49" height="30.333333333333336"/>
+                                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="22"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="u69-Sq-1JD">
+                                <rect key="frame" x="51.666666666666657" y="323.33333333333331" width="290" height="34.333333333333314"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VrF-jw-oYG">
+                                        <rect key="frame" x="0.0" y="0.0" width="145" height="34.333333333333336"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="Punto jugador 1"/>
+                                        <connections>
+                                            <action selector="player1PointTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Uy2-gc-abM"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rGs-p0-2Q4">
+                                        <rect key="frame" x="145" y="0.0" width="145" height="34.333333333333336"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="Punto jugador 2"/>
+                                        <connections>
+                                            <action selector="player2PointTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bsj-aZ-I8U"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kh3-7H-oYv">
+                                <rect key="frame" x="123.00000000000001" y="381.66666666666669" width="147.33333333333337" height="34.333333333333314"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Reiniciar partido"/>
+                                <connections>
+                                    <action selector="resetTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GsO-OY-Bad"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Historial de juegos" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bte-ez-kmc">
+                                <rect key="frame" x="16" y="480" width="361" height="23.333333333333314"/>
+                                <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="Bxo-X4-ua9">
+                                <rect key="frame" x="8" y="511.33333333333326" width="377" height="298.66666666666674"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="kh3-7H-oYv" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="0E4-Up-ipY"/>
+                            <constraint firstItem="6O2-r1-PaI" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="24" id="F9D-Eh-rH9"/>
+                            <constraint firstItem="bte-ez-kmc" firstAttribute="top" secondItem="kh3-7H-oYv" secondAttribute="bottom" constant="64" id="Mdp-DR-nhm"/>
+                            <constraint firstItem="kh3-7H-oYv" firstAttribute="top" secondItem="u69-Sq-1JD" secondAttribute="bottom" constant="24" id="PNu-g9-Bcd"/>
+                            <constraint firstItem="bte-ez-kmc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="PaK-iO-0Vx"/>
+                            <constraint firstItem="4t9-F3-yCE" firstAttribute="top" secondItem="6O2-r1-PaI" secondAttribute="bottom" constant="56" id="S5D-TH-bpW"/>
+                            <constraint firstItem="Bxo-X4-ua9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="8" id="TgB-oU-MwD"/>
+                            <constraint firstItem="4t9-F3-yCE" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Zko-F5-cWm"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="bte-ez-kmc" secondAttribute="trailing" constant="16" id="b6R-kc-onS"/>
+                            <constraint firstItem="Bxo-X4-ua9" firstAttribute="top" secondItem="bte-ez-kmc" secondAttribute="bottom" constant="8" id="di7-60-zbT"/>
+                            <constraint firstItem="u69-Sq-1JD" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="f1I-F2-24O"/>
+                            <constraint firstItem="6O2-r1-PaI" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="iQk-nB-63x"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Bxo-X4-ua9" secondAttribute="bottom" constant="8" id="ie6-iI-3za"/>
+                            <constraint firstItem="u69-Sq-1JD" firstAttribute="top" secondItem="4t9-F3-yCE" secondAttribute="bottom" constant="72" id="kip-JF-NXZ"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Bxo-X4-ua9" secondAttribute="trailing" constant="8" id="zqq-LC-xfb"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="addPlayer1PointButton" destination="VrF-jw-oYG" id="jf8-yk-83g"/>
+                        <outlet property="addPlayer2PointButton" destination="rGs-p0-2Q4" id="e1r-Va-tHd"/>
+                        <outlet property="gameTitleLabel" destination="6O2-r1-PaI" id="aU5-eD-Y9h"/>
+                        <outlet property="matchHistoryTable" destination="Bxo-X4-ua9" id="4jy-Cs-Vmk"/>
+                        <outlet property="player1ScoreLabel" destination="fhL-2J-NbH" id="EAK-QB-nRc"/>
+                        <outlet property="player2ScoreLabel" destination="AwT-ja-ax1" id="J0W-hJ-cXg"/>
+                        <outlet property="resetButton" destination="kh3-7H-oYv" id="TnA-Wd-Y7T"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="21" y="5"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
