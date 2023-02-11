@@ -25,3 +25,10 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Viernes 10 Feb - MVVM VIPER](https://drive.google.com/file/d/1IxTh62GaB3iKe3FwkGFfM18k1wig-6pS/view?usp=sharing)
 - 📺 [Grabacion Viernes 10 Feb](https://drive.google.com/file/d/1UXiIGmZmN3eASSRbUCa6RLJ1-qBc2K4z/view?usp=sharing)
 
+# Semana 4
+- [Miercoles 15 Feb - Ciclos de vida de una app](https://drive.google.com/file/d/1IRPREfsHO1H3hGlMWYa-jzGPylKw2Rva/view?usp=sharing)
+- 📺 [Grabacion Miércoles 15 Feb]()
+- [Jueves 16 Feb - Nib y Storyboards](https://drive.google.com/file/d/1V_nx7YkrU81qG5xI8k6cQg_i5mOqHteC/view?usp=sharing)
+- 📺 [Grabacion Jueves 16 Feb]()
+- [Viernes 17 Feb - UlKit controles básicos](https://drive.google.com/file/d/1FVLhDfBTxAx-WN5WfvWWtSlY6FFt4HUC/view?usp=sharing)
+- 📺 [Grabacion Viernes 17 Feb]()
