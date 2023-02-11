@@ -23,5 +23,5 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 9 Feb - Patrones de diseño](https://drive.google.com/file/d/17DNGXvF_dUG3cw_XFRLdE73CWaCjMkf9/view?usp=sharing)
 - 📺 [Grabacion Jueves 9 Feb](https://drive.google.com/file/d/1Od4ljBpscxT1BUG2gpF8rpCqzWuKL-WY/view?usp=sharing)
 - [Viernes 10 Feb - MVVM VIPER](https://drive.google.com/file/d/1IxTh62GaB3iKe3FwkGFfM18k1wig-6pS/view?usp=sharing)
-- 📺 [Grabacion Viernes 10 Feb]()
+- 📺 [Grabacion Viernes 10 Feb](https://drive.google.com/file/d/1UXiIGmZmN3eASSRbUCa6RLJ1-qBc2K4z/view?usp=sharing)
 
