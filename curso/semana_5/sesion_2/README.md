@@ -1,20 +1,22 @@
 Sesión 2
 -
 
-## Pruebas unitarias
+## URLSession
+- Introduccion
+- Consumo de servicios REST
+
+## Manejo de errores
 - Introducción
-- Configuración
-- Elementos de prueba
-    - Afirmaciones
-    - Desempeño
-    - Expectativas
+- Representaion y lanzar errores
+- Afirmaciones y condiciones previas
+- Aplicar condiciones previas
 
 ## 💻 Actividades
-- [Pruebas unitarias](https://leetcode.com/playground/)
+- [Manejo de errores](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://engineering.creativesociety.mx/introduccion-a-unit-testing-en-xcode-con-swift/
+- https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

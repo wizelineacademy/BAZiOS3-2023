@@ -60,9 +60,9 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
    3. [UIKit y componentes básicos](curso/semana_4/sesion_3)
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
-   1. [URLSession y Manejo de errores](curso/semana_5/sesion_1)
-   2. [Pruebas unitarias](curso/semana_5/sesion_2)
-   3. [Principios SOLID](curso/semana_5/sesion_3)
+   1. [Principios SOLID](curso/semana_5/sesion_1)
+   2. [URLSession y Manejo de errores](curso/semana_5/sesion_2)
+   3. [Pruebas unitarias](curso/semana_5/sesion_3)
 
 ### Semana 6
    1. [ARC](curso/semana_6/sesion_1)

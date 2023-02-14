@@ -1,22 +1,19 @@
-Sesión 2
+Sesión 1
 -
 
-## URLSession
-- Introduccion
-- Consumo de servicios REST
-
-## Manejo de errores
-- Introducción
-- Representaion y lanzar errores
-- Afirmaciones y condiciones previas
-- Aplicar condiciones previas
-
+## Principios SOLID
+ - Responsabilidad única
+ - Abierto Cerrado
+ - Sustitucion de Liskov
+ - Segregación de interfaces
+ - Inversión de dependencias
+ 
 ## 💻 Actividades
-- [Manejo de errores](https://leetcode.com/playground/)
+- [SOLID](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html
+- https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)
