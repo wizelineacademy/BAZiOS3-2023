@@ -1,4 +1,4 @@
-Sesión 3
+Sesión 1
 -
 
 ## Principios SOLID
