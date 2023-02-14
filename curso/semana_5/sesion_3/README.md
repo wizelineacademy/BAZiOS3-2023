@@ -1,19 +1,20 @@
-Sesión 3
+Sesión 2
 -
 
-## Principios SOLID
- - Responsabilidad única
- - Abierto Cerrado
- - Sustitucion de Liskov
- - Segregación de interfaces
- - Inversión de dependencias
- 
+## Pruebas unitarias
+- Introducción
+- Configuración
+- Elementos de prueba
+    - Afirmaciones
+    - Desempeño
+    - Expectativas
+
 ## 💻 Actividades
-- [SOLID](https://leetcode.com/playground/)
+- [Pruebas unitarias](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
+- https://engineering.creativesociety.mx/introduccion-a-unit-testing-en-xcode-con-swift/
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)
