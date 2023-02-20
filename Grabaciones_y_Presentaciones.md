@@ -31,7 +31,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 16 Feb - Nib y Storyboards](https://drive.google.com/file/d/1V_nx7YkrU81qG5xI8k6cQg_i5mOqHteC/view?usp=sharing)
 - 📺 [Grabacion Jueves 16 Feb]()
 - [Viernes 17 Feb - UlKit controles básicos](https://drive.google.com/file/d/1FVLhDfBTxAx-WN5WfvWWtSlY6FFt4HUC/view?usp=sharing)
-- 📺 [Grabacion Viernes 17 Feb]()
+- 📺 [Grabacion Viernes 17 Feb](https://drive.google.com/file/d/1b-60k4yP74nHrmswXqYQObVv2oRCDe3o/view?usp=sharing)
 
 # Semana 5
 - [Miercoles 22 Feb - Principios SOLID](https://drive.google.com/file/d/1Eajpc1i94z7FrpFEj0isrytYowq5DYxy/view?usp=sharing)
