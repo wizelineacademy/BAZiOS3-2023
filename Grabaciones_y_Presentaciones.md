@@ -29,7 +29,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miercoles 15 Feb - Ciclos de vida de una app](https://drive.google.com/file/d/1IRPREfsHO1H3hGlMWYa-jzGPylKw2Rva/view?usp=sharing)
 - 📺 [Grabacion Miércoles 15 Feb](https://drive.google.com/file/d/1bRUc_1fQbLxCSbHNXfJEuQ8KnKL-sytb/view?usp=sharing)
 - [Jueves 16 Feb - Nib y Storyboards](https://drive.google.com/file/d/1V_nx7YkrU81qG5xI8k6cQg_i5mOqHteC/view?usp=sharing)
-- 📺 [Grabacion Jueves 16 Feb]()
+- 📺 [Grabacion Jueves 16 Feb](https://drive.google.com/file/d/1bq2y6D-hxLCOgGkiba6BcjAqBxzPFlAL/view?usp=sharing)
 - [Viernes 17 Feb - UlKit controles básicos](https://drive.google.com/file/d/1FVLhDfBTxAx-WN5WfvWWtSlY6FFt4HUC/view?usp=sharing)
 - 📺 [Grabacion Viernes 17 Feb](https://drive.google.com/file/d/1b-60k4yP74nHrmswXqYQObVv2oRCDe3o/view?usp=sharing)
 
