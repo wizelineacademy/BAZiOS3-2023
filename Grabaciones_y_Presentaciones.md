@@ -35,7 +35,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 5
 - [Miercoles 22 Feb - Principios SOLID](https://drive.google.com/file/d/1I0nrzUQ03X-ZXLfWTAYq4Y4UvfNE8n21/view?usp=sharing)
-- 📺 [Grabacion Miércoles 22 Feb]()
+- 📺 [Grabacion Miércoles 22 Feb](https://drive.google.com/file/d/1ztDPbGICYYVi5Y6c95iBtuG2AIGvTeaw/view?usp=sharing)
 - [Jueves 23 Feb - Servicios REST](https://drive.google.com/file/d/1osMe2_dRkZx74zezAuC4Y0bnyoa81qB5/view?usp=sharing)
 - 📺 [Grabacion Jueves 23 Feb]()
 - [Viernes 24 Feb - Pruebas Unitarias](https://drive.google.com/file/d/18oZHybcfBzzIpzArtApbCgSfoMtImZbY/view?usp=sharing)
