@@ -42,9 +42,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 24 Feb](https://drive.google.com/file/d/1kd39mYGA3YzCIezxnIuC1_111QzmPsu0/view?usp=sharing)
 
 # Semana 6
-- [Miércoles 1 Marzo - ]()
+- [Miércoles 1 Marzo - ARC](https://drive.google.com/file/d/1gufRwtXZTIpZo0iG7087SRgMYYUIkZzA/view?usp=sharing)
 - 📺 [Grabación Miércoles 1 Marzo]()
-- [Jueves 2 Marzo - ]()
+- [Jueves 2 Marzo - Notification Center](https://drive.google.com/file/d/1gyfGoCagigkFw2p3MO8PV3SHMRH91R1b/view?usp=sharing)
 - 📺 [Grabación Jueves 2 Marzo]()
-- [Viernes 3 Marzo - ]()
+- [Viernes 3 Marzo - Access Control](https://drive.google.com/file/d/11VLdghw649_5YP1DhNdTh2nICEn-Wnhw/view?usp=sharing)
 - 📺 [Grabación Viernes 3 Marzo]()
