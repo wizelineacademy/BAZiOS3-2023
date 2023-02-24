@@ -46,5 +46,5 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Miércoles 1 Marzo]()
 - [Jueves 2 Marzo - ]()
 - 📺 [Grabación Jueves 2 Marzo]()
-- [Viernes 3 Marzo - ]
-- 📺 [Grabación Viernes 3 Marzo]
+- [Viernes 3 Marzo - ]()
+- 📺 [Grabación Viernes 3 Marzo]()
