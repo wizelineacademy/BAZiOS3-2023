@@ -36,8 +36,10 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 5
 - [Miércoles 22 Feb - Principios SOLID](https://drive.google.com/file/d/1I0nrzUQ03X-ZXLfWTAYq4Y4UvfNE8n21/view?usp=sharing)
 - 📺 [Grabación Miércoles 22 Feb](https://drive.google.com/file/d/1ztDPbGICYYVi5Y6c95iBtuG2AIGvTeaw/view?usp=sharing)
+- 📺 [Grabación Mentoría Miércoles 22 Feb](https://drive.google.com/file/d/1AIM84aETY5gsZYVcsiVdKlxWm5XW4Nbt/view?usp=sharing)
 - [Jueves 23 Feb - Servicios REST](https://drive.google.com/file/d/1osMe2_dRkZx74zezAuC4Y0bnyoa81qB5/view?usp=sharing)
 - 📺 [Grabación Jueves 23 Feb](https://drive.google.com/file/d/1sH_Bp1mFDbrkU3gb29GOQ9r5TjVxKs6V/view?usp=share_link)
+- 📺 [Grabación Mentoría Jueves 23 Feb](https://drive.google.com/file/d/17kSvsHJ70XUlXvGImSJ2NvyuyvAMCLHE/view?usp=share_link)
 - [Viernes 24 Feb - Pruebas Unitarias](https://drive.google.com/file/d/18oZHybcfBzzIpzArtApbCgSfoMtImZbY/view?usp=sharing)
 - 📺 [Grabación Viernes 24 Feb](https://drive.google.com/file/d/1kd39mYGA3YzCIezxnIuC1_111QzmPsu0/view?usp=sharing)
 
