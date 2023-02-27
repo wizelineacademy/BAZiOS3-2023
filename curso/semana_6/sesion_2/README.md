@@ -8,8 +8,11 @@ Sesión 2
 - Envío de información
 
 ## 💻 Actividades
-- [Topic](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
+- En el [proyecto](https://github.com/wizelineacademy/BAZiOS3-2023/tree/week6-exercises/curso/semana_6/sesion_2/NotificationCenterExample), realiza las siguientes actividades:
+    - Agregar la llave de tu notificación a la extensión Notification.Name
+    - Registrar el observador en el ViewController
+    - Enviar la notificación en ObservadorViewController
+    - No olvides eliminar el observador cuando desaparezca el controlador
 
 ## 📚 Referencias
 - [Notification Center](https://developer.apple.com/documentation/foundation/notificationcenter)
