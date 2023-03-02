@@ -20,7 +20,6 @@ final class CounterViewController: UIViewController {
     
     func setValueToCounter(value: Int){
         // TODO: Set notification to the userInfo key "value"
-        
+        NotificationCenter.default.post(name: .didRecieveValue, object: nil, userInfo: ["value": value])
     }
-
 }

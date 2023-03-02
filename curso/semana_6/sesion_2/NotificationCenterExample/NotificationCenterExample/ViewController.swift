@@ -7,6 +7,10 @@
 
 import UIKit
 
+extension Notification.Name {
+    static let didRecieveValue = Notification.Name(rawValue: "didReceiveValue")
+}
+
 final class ViewController: UIViewController {
     @IBOutlet weak var lblCounter:UILabel!
     var counter = 0
@@ -14,7 +18,7 @@ final class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         // TODO: Suscribe to your notification
-        
+        NotificationCenter.default.addObserver(self, selector: #selector(didReceiveValue), name: .didRecieveValue, object: nil)
         lblCounter.text = "\(counter)"
     }
     
@@ -24,7 +28,7 @@ final class ViewController: UIViewController {
     }
     
     // TODO: Do any modifications to receive your value
-    func didReceiveValue(_ notification:NSNotification){
+    @objc func didReceiveValue(_ notification: NSNotification){
         guard let message = notification.userInfo, let value:Int = message["value"] as? Int else {
             return
         }
