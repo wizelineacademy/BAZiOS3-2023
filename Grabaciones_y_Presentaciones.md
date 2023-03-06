@@ -51,4 +51,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 2 Marzo - Notification Center](https://drive.google.com/file/d/1gyfGoCagigkFw2p3MO8PV3SHMRH91R1b/view?usp=sharing)
 - 📺 [Grabación Jueves 2 Marzo](https://drive.google.com/file/d/1AJDUAqs35gEubGoX9BBfbS7bTu0VB6Sq/view?usp=sharing)
 - [Viernes 3 Marzo - Access Control](https://drive.google.com/file/d/11VLdghw649_5YP1DhNdTh2nICEn-Wnhw/view?usp=sharing)
-- 📺 [Grabación Viernes 3 Marzo]()
+- 📺 [Grabación Viernes 3 Marzo](https://drive.google.com/file/d/1AQKMKYzSDBfhGcbgGJPknTj-WxiQOrMH/view?usp=sharing)
