@@ -13,13 +13,15 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 1 Feb - Definiciones y propiedades](https://drive.google.com/file/d/1XzZ2_Qv4MOSn0JbpxceqQ4NKBr8JOzxI/view?usp=sharing)
 - 📺 [Grabación Miércoles 1 Feb ](https://drive.google.com/file/d/1GvfGUACfkt_ESACzslmqic-TlSCV7ARB/view?usp=sharing)
 - [Jueves 2 Feb - Herencia e inicializadores](https://drive.google.com/file/d/1I3Xdy0Ya804Zu5t6xoKFB8q4rkQ2qoHv/view?usp=sharing)
-- 📺 [Grabación Jueves 2 Feb](https://drive.google.com/file/d/150c7xCp674cCWQNjyKmGfEhu9tWYsgps/view?usp=sharing)
+- 📺 [Grabación - Clase Jueves 2 Feb](https://drive.google.com/file/d/150c7xCp674cCWQNjyKmGfEhu9tWYsgps/view?usp=sharing)
+- 📺 [Grabación - Mentoría Jueves 2 Feb](https://drive.google.com/file/d/1JO2gtrKxIoU4rhYyfTVbREtIt-WHKNUD/view?usp=sharing)
 - [Viernes 3 Feb - Git y Xcode](https://drive.google.com/file/d/1G7TvPJ_X866XYciu8VEWin767Z6ARdW9/view?usp=sharing)
 - 📺 [Grabación Viernes 3 Feb](https://drive.google.com/file/d/1SfI3fuLF_hN-LIMG_Z1dXwt0JVCb-CIj/view?usp=sharing)
 
 # Semana 3
 - [Miércoles 8 Feb - Protocolos y Delegados](https://drive.google.com/file/d/1Gr3Ga1xmJzc-I1IeAwCEEQLyA2bMhvXD/view?usp=sharing)
-- 📺 [Grabación Miércoles 8 Feb ](https://drive.google.com/file/d/1MDfaIdWELqT3Ln_WmQ1IOXngRPyllI5_/view?usp=sharing)
+- 📺 [Grabación - Clase Miércoles 8 Feb](https://drive.google.com/file/d/1MDfaIdWELqT3Ln_WmQ1IOXngRPyllI5_/view?usp=sharing)
+- 📺 [Grabación - Mentoría Miércoles 8 Feb](https://drive.google.com/file/d/1xSwI28d8bXUZW8loehBLPXErFYwrDr95/view?usp=sharing)
 - [Jueves 9 Feb - Patrones de diseño](https://drive.google.com/file/d/17DNGXvF_dUG3cw_XFRLdE73CWaCjMkf9/view?usp=sharing)
 - 📺 [Grabación Jueves 9 Feb](https://drive.google.com/file/d/1Od4ljBpscxT1BUG2gpF8rpCqzWuKL-WY/view?usp=sharing)
 - [Viernes 10 Feb - MVVM VIPER](https://drive.google.com/file/d/1IxTh62GaB3iKe3FwkGFfM18k1wig-6pS/view?usp=sharing)
