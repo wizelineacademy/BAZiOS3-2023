@@ -49,6 +49,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 1 Marzo - ARC](https://drive.google.com/file/d/1gufRwtXZTIpZo0iG7087SRgMYYUIkZzA/view?usp=sharing)
 - 📺 [Grabación Miércoles 1 Marzo](https://drive.google.com/file/d/1FgavDdQnlslKkxlcv5v2zruPqbZcUHvu/view?usp=sharing)
 - [Jueves 2 Marzo - Notification Center](https://drive.google.com/file/d/1gyfGoCagigkFw2p3MO8PV3SHMRH91R1b/view?usp=sharing)
-- 📺 [Grabación Jueves 2 Marzo]()
+- 📺 [Grabación Jueves 2 Marzo](https://drive.google.com/file/d/1AJDUAqs35gEubGoX9BBfbS7bTu0VB6Sq/view?usp=sharing)
 - [Viernes 3 Marzo - Access Control](https://drive.google.com/file/d/11VLdghw649_5YP1DhNdTh2nICEn-Wnhw/view?usp=sharing)
 - 📺 [Grabación Viernes 3 Marzo]()
